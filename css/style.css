@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+h1 {
+  color: Azure;
+}
+
 .about-me {
   font-size: 20px;
   opacity: 0.5;
